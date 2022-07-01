@@ -1,0 +1,14 @@
+/* CSS Reset */
+
+/* Image and Logo */
+#logo{
+    margin: 9px 15px;  
+
+}
+#logo img{
+    width:105px;
+    height:90px;
+    border-radius: 350%;
+
+    
+}
